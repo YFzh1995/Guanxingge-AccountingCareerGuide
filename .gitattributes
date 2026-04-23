@@ -1,0 +1,12 @@
+# Ensure consistent line endings across platforms
+* text=auto eol=lf
+
+# Markdown files
+*.md text eol=lf
+*.txt text eol=lf
+
+# Binary assets
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.pdf binary
