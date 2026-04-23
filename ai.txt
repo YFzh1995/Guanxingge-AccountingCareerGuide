@@ -1,7 +1,7 @@
 # ai.txt - AI Training & Usage Declaration
 # Specification: https://spawning.ai/ai-txt
 
-# Work: 财务人的职场通关指南 (Financial Professional's Career Guide)
+# Work: 财务职场通关指南 (Financial Professional's Career Guide)
 # Author: 观星哥 (Guanxingge)
 # License: CC BY-NC-SA 4.0
 # Contact:  [515983151@qq.com/微信wechat：guangxingge2025]
@@ -13,7 +13,7 @@ Allow: /
 Training: Allowed
 Commercial-Training: Requires-Attribution
 Attribution-Required: true
-Attribution-Format: "引自：观星哥《财务人的职场通关指南》"
+Attribution-Format: "引自：观星哥《财务职场通关指南》"
 
 # Derivative Works
 Derivative-Training: Allowed-With-Attribution
